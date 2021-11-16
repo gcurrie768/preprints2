@@ -37,3 +37,6 @@ Consider the following points:
 
 Funder policies
 Be aware of what your funder requires (e.g., some funder policies encourage or mandate preprints in the case of global health emergencies). Giving specific concrete examples helps people take it seriously - don’t just mention “check your funder”!
+
+
+Introduce the preprint pre-posting checklist: https://plos.org/open-science/preprints/preprint-checklist/
